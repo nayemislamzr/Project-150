@@ -1,6 +1,6 @@
 # Project-150
 
-Project-150 is a creative falling sand game that lets you experiment with various elements such as sand, water, plants, and fire. Unleash your creativity as you watch these elements interact in a dynamic simulation environment. Whether you're a fan of physics-based puzzles or simply looking for a relaxing sandbox experience, Project-150 offers endless fun and exploration!
+Sand-Simulator is a creative falling sand game that lets you experiment with various elements such as sand, water, plants, and fire. Unleash your creativity as you watch these elements interact in a dynamic simulation environment. Whether you're a fan of physics-based puzzles or simply looking for a relaxing sandbox experience, Sand-Simulator offers endless fun and exploration!
 
 ## Table of Contents
 
@@ -40,11 +40,11 @@ Follow these steps to set up Project-150 on your local machine.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/nayemislamzr/Project-150.git
+   git clone https://github.com/nayemislamzr/sand-simulation.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd Project-150
+   cd sand-simulation
    ```
 3. **Compile and Run:**
    - Open the project in your favorite IDE or use the command line to compile the source files.
@@ -58,8 +58,8 @@ Follow these steps to set up Project-150 on your local machine.
 
 ## Technologies Used
 
-- **Java:** Core language used for building the simulation.
-- **Java Swing/JavaFX:** For rendering the interactive user interface and graphics.
+- **C++:** Core language used for building the simulation.
+- **OpenGL:** For rendering the interactive user interface and graphics.
 - **Physics Simulation:** Basic algorithms to simulate element interactions.
 
 ## Contributing
