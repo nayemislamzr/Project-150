@@ -1,4 +1,4 @@
-# Project-150
+# Sand-Simulator
 
 Sand-Simulator is a creative falling sand game that lets you experiment with various elements such as sand, water, plants, and fire. Unleash your creativity as you watch these elements interact in a dynamic simulation environment. Whether you're a fan of physics-based puzzles or simply looking for a relaxing sandbox experience, Sand-Simulator offers endless fun and exploration!
 
